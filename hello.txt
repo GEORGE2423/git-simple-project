@@ -1,1 +1,4 @@
 "hello github"
+Git is a popular version control system. It is how developers can collaborate and work together on projects.
+
+Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a change.
